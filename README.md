@@ -27,3 +27,4 @@ Seamlessly integrated with Power BI's robust visualization capabilities
 
 ### Screenshot
 That's how dashboard looks like-
+![Dashboard Preview](https://github.com/Nancyy06/Coffee-shop-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
