@@ -4,9 +4,9 @@
 A dynamic and visually stunning Coffee Sales Dashboard crafted using Power BI, designed to provide deep insights into sales trends, payment methods, and coffee type performance with an intuitive user interface.
 
 ### Tech Stack
-Power BI
-Power Query
-DAX (Data Analysis Expressions)
+- Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
 
 ### Data Source
 Kaggle (coffee sales dataset)
